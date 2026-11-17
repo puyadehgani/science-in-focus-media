@@ -1,0 +1,38 @@
+{
+  "episode": "history-of-fess-part-2",
+  "title": "How did FESS conquer the world?",
+  "series": "History of FESS",
+  "part": "2/5",
+  "duration_s": 87.23,
+  "resolution": "1080x1920",
+  "approved_content": "2026-11-17",
+  "publish_at": null,
+  "assets": {
+    "full": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-2.mp4",
+    "lite": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-2-lite.mp4",
+    "cover": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-2-cover.png",
+    "release": "https://github.com/puyadehgani/science-in-focus-media/releases/tag/history-of-fess-part-2"
+  },
+  "queue": {
+    "instagram": {
+      "video": "full",
+      "title": "How did FESS conquer the world?",
+      "caption_file": "caption_instagram.txt"
+    },
+    "facebook": {
+      "video": "full",
+      "title": "How did FESS conquer the world? | History of FESS, Part 2/5",
+      "caption_file": "caption_facebook.txt"
+    },
+    "youtube": {
+      "video": "lite",
+      "title": "How did FESS conquer the world? | History of FESS, Part 2/5 #Shorts",
+      "caption": "How did one sinus operation conquer the world? 🌍\nPart 2 of 5 in our History of FESS series.\n\nAfter its birth in Graz and Baltimore, functional endoscopic sinus surgery spread through four channels:\n\n1️⃣ Societies — the American Rhinologic Society (1954), the European (1963, Leiden), the International (1965, Kyoto) and ISIAN (1976, Tokyo), followed by national societies.\n2️⃣ Courses — Johns Hopkins from 1985, Graz from 1986, then surgeons from every continent.\n3️⃣ Tools — computer navigation (first used in 1987), powered instruments (1994), balloon dilation (2006).\n4️⃣ A common language — CT and endoscopic scores (1993, 1995), standard smell tests, the SNOT-22 questionnaire validated on 3,128 patients (2009), and consensus papers on sinusitis, tumours, anatomy and smell.\n\nBut access is not universal: in 15 sub-Saharan countries, ENT surgeons grew by 43% between 2009 and 2015, while the population grew by 23%. The first barrier is basic equipment.\n\n👉 Next, Part 3: CSF leak repair, and the nose as a corridor to the skull base.\n\n📄 Sources: Mösges, HNO 2016 · Setliff & Parsons, Am J Rhinol 1994 · Brown & Bolger, Ann Otol Rhinol Laryngol 2006 · Lund & Mackay, Rhinology 1993 · Lund & Kennedy, Ann Otol Rhinol Laryngol 1995 · Hopkins et al., Clin Otolaryngol 2009 · Fokkens et al., Rhinology 2020 · Whitcroft et al., Rhinology 2023 · Mulwafu et al., Glob Health Action 2017\n\nPersonal scientific content. Not institutional communication from Azienda USL Umbria 1; the information and opinions expressed do not represent its views. This content does not replace a medical assessment.\n\n#ScienceInFocus #FESS #Rhinology #ENT #HistoryOfMedicine"
+    },
+    "linkedin": {
+      "video": "lite",
+      "title": "How did FESS conquer the world? — History of FESS, Part 2/5",
+      "caption_file": "caption_linkedin_littletext.txt"
+    }
+  }
+}

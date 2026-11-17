@@ -1,0 +1,27 @@
+How did one sinus operation conquer the world?
+Science in Focus · History of FESS · Part 2/5
+
+Functional endoscopic sinus surgery did not spread through technique alone. Four things made it global:
+
+• Organised rhinology: the American Rhinologic Society (1954), the European Rhinologic Society (1963, Leiden), the International Rhinologic Society (1965, Kyoto) and ISIAN (1976, Tokyo).
+• Structured teaching: Kennedy's courses at Johns Hopkins from 1985 and Stammberger's in Graz from 1986.
+• Technology: image-guided navigation, first used in surgery in 1987 (Schlöndorff, Aachen); powered instrumentation (1994); balloon dilation of the sinus ostia (2006).
+• A shared language to measure outcomes: the Lund-Mackay CT score (1993), the Lund-Kennedy endoscopic score (1995), standardised smell testing, the SNOT-22, validated on 3,128 patients in the UK national audit (2009), and the EPOS and international consensus papers.
+
+Access, however, remains unequal. In 15 sub-Saharan African countries, the number of ENT surgeons rose by 43% between 2009 and 2015, while the population grew by 23%; respondents named the lack of basic equipment as the main limitation.
+
+Next, Part 3: endoscopic CSF leak repair and the nose as a corridor to the skull base.
+
+References
+– Mösges R. HNO 2016;64:630–4. doi:10.1007/s00106-016-0222-y
+– Setliff RC, Parsons DS. Am J Rhinol 1994;8:275–8. doi:10.2500/105065894781874232
+– Brown CL, Bolger WE. Ann Otol Rhinol Laryngol 2006;115:293–9. PMID 16676826
+– Lund VJ, Mackay IS. Rhinology 1993;31:183–4
+– Lund VJ, Kennedy DW. Ann Otol Rhinol Laryngol Suppl 1995;167:17–21
+– Hopkins C et al. Clin Otolaryngol 2009;34:447–54. PMID 19793277
+– Fokkens WJ et al. Rhinology 2020;58(Suppl 29):1–464. doi:10.4193/Rhin20.600
+– Mulwafu W et al. Glob Health Action 2017;10:1289736. doi:10.1080/16549716.2017.1289736
+
+Personal scientific content. Not institutional communication from Azienda USL Umbria 1; the information and opinions expressed do not represent its views. This content does not replace a medical assessment.
+
+#ScienceInFocus #FESS #Rhinology #Otolaryngology #MedicalHistory
