@@ -1,0 +1,37 @@
+{
+  "episode": "history-of-fess-part-3",
+  "title": "How did the nose become a doorway?",
+  "series": "History of FESS",
+  "part": "3/5",
+  "duration_s": 80.4,
+  "resolution": "1080x1920",
+  "approved_content": "2026-11-18",
+  "publish_at": "2026-11-19T11:30:00Z",
+  "assets": {
+    "full": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-3.mp4",
+    "lite": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-3-lite.mp4",
+    "cover": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-3-cover.png"
+  },
+  "queue": {
+    "instagram": {
+      "video": "full",
+      "title": "How did the nose become a doorway?",
+      "caption_file": "caption_instagram.txt"
+    },
+    "facebook": {
+      "video": "full",
+      "title": "How did the nose become a doorway? | History of FESS, Part 3/5",
+      "caption_file": "caption_facebook.txt"
+    },
+    "youtube": {
+      "video": "lite",
+      "title": "How did the nose become a doorway? | History of FESS, Part 3/5 #Shorts",
+      "caption_file": "caption_youtube.txt"
+    },
+    "linkedin": {
+      "video": "lite",
+      "title": "How did the nose become a doorway? — History of FESS, Part 3/5",
+      "caption_file": "caption_linkedin_littletext.txt"
+    }
+  }
+}
