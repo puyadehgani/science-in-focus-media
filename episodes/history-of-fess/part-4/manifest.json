@@ -1,0 +1,38 @@
+{
+  "episode": "history-of-fess-part-4",
+  "title": "Can a tumour be removed endoscopically, through the nose?",
+  "series": "History of FESS",
+  "part": "4/5",
+  "duration_s": 143.7,
+  "resolution": "1080x1920",
+  "approved_content": "2026-11-24",
+  "publish_at": "2026-11-25T11:30:00Z",
+  "assets": {
+    "full": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-4.mp4",
+    "lite": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-4-lite.mp4",
+    "cover": "https://puyadehgani.github.io/science-in-focus-media/media/history-of-fess/part-4-cover.png"
+  },
+  "queue": {
+    "instagram": {
+      "video": "full",
+      "title": "Can a tumour be removed endoscopically, through the nose?",
+      "caption_file": "caption_instagram.txt"
+    },
+    "facebook": {
+      "video": "full",
+      "manual": true,
+      "note": "> 90 s: not allowed as a Facebook Reel; upload manually as a Page video",
+      "caption_file": "caption_facebook.txt"
+    },
+    "youtube": {
+      "video": "lite",
+      "title": "Can a tumour be removed endoscopically, through the nose? | History of FESS, Part 4/5 #Shorts",
+      "caption_file": "caption_youtube.txt"
+    },
+    "linkedin": {
+      "video": "lite",
+      "title": "Can a tumour be removed endoscopically? — History of FESS, Part 4/5",
+      "caption_file": "caption_linkedin_littletext.txt"
+    }
+  }
+}
